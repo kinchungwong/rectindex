@@ -35,3 +35,11 @@ to be compatible with the policy of OpenCV code contribution guideline.
 The license for the OpenCV project can be found at http://opencv.org/license.html
 
 ----
+
+## Why
+
+*See [WHY.md](./WHY.md)*
+
+*My resume at [https://kinchungwong.github.io](https://kinchungwong.github.io)*
+
+----
